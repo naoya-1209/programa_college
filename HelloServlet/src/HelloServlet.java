@@ -10,10 +10,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/HelloServret")
-public class HelloServret extends HttpServlet {
+@WebServlet("/HelloServlet")
+public class HelloServlet extends HttpServlet {
 
-	    public HelloServret() {
+	    public HelloServlet() {
         super();
             }
 
